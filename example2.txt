@@ -1,4 +1,12 @@
-yujhgbfvgtyhretgergfd
+git init
+git status
+git add .
+git add filename.ext
 
-fgthrtfgtrfd
-gnhrtgfhbrtf
+git commit -m "Comments"
+
+git remote add origin https://github.com/Mouryautti/git-practice.git
+
+git branch for current branch
+
+git push -u origin master
